@@ -1,5 +1,12 @@
-blog
+# 第一次
 
-second
+* git init
+* git add *
+* git commit -m 'xxxx'
+* git remote add origin url
+* git push -u origin master
 
-哈哈
+
+# 第二次
+
+* git add * 
