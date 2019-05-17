@@ -10,3 +10,6 @@
 # 第二次
 
 * git add * 
+* git commit -m 'xxx'
+* git status
+* git push
